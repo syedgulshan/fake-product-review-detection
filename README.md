@@ -68,7 +68,67 @@ Saved text vectorizer used to convert review text into numerical features.
 ---
 
 ## ⚙️ How to Run the Project
-Step 1: Clone the repository
-Step 2: Open project folder
-Step 3: Install required libraries
-Step 4: Run the project
+### Step 1: Clone the repository
+### Step 2: Open project folder
+### Step 3: Install required libraries
+### Step 4: Run the project
+
+---
+
+## 🔍 Working Process
+
+1. Collect product review dataset
+2. Clean and preprocess review text
+3. Convert text into numerical features using vectorization
+4. Train Machine Learning model
+5. Save trained model
+6. Predict whether a review is Fake or Real
+
+---
+
+## 🧠 Machine Learning Approach
+
+This project uses:
+
+- Natural Language Processing (NLP)
+- Text Vectorization
+- Classification Algorithm
+
+The model learns patterns from existing reviews and predicts the authenticity of new reviews.
+
+---
+
+## 📊 Applications
+
+- E-commerce websites
+- Online marketplaces
+- Customer feedback systems
+- Review monitoring platforms
+
+---
+
+## 🔮 Future Improvements
+
+- Improve model accuracy with advanced algorithms
+- Add deep learning models
+- Deploy as a web application
+- Real-time review detection
+- Add graphical user interface
+
+---
+
+## 👩‍💻 Author
+
+**Syed Gulshan**
+
+B.Tech (Artificial Intelligence & Data Science)
+
+GitHub: https://github.com/syedgulshan
+
+
+
+---
+
+## ⭐ Project Status
+
+Completed ✅
