@@ -1,12 +1,12 @@
 # Fake Product Review Detection
 
-📌 Project Overview
+##📌 Project Overview
 
 Fake Product Review Detection is a Machine Learning based project that identifies whether a product review is genuine or fake.
 
 With the growth of online shopping, fake reviews have become a major problem. This project uses Natural Language Processing (NLP) techniques and Machine Learning algorithms to analyze review text and classify it as a real or fake review.
 
-🎯 Objective
+##🎯 Objective
 
 The main objective of this project is:
 
@@ -14,7 +14,7 @@ The main objective of this project is:
 - To reduce misleading information in online shopping platforms
 - To build a text classification model using Machine Learning
 
-🚀 Features
+##🚀 Features
 
 - Text-based review analysis
 - Data preprocessing and cleaning
